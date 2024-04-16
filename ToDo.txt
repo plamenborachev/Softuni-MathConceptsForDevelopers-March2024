@@ -27,6 +27,14 @@ github_pat_11AGAU3BQ0LWEAgNBpznqU_4kKc0Drd2jxPnSweuZwiUoZWnI1ztGJ7S9mzz21PyMFROG
 	02:32 -	03:35 - Complex Numbers
 	
 04.Basic-Algebra-Exercise - 03:51
+	00:00 - 01:03 - Slido
+	01:03 - 01:24 - Problems Resume
+	01:24 - 02:20 - Functions
+	02:26 - 02:58 - Problem 1. Polynomial Interpolation
+	02:58 - 03:11 - Problem 2. Complex Numbers as Vectors
+	03:11 - 03:33 - Problem 3. Recursion and Fractals
+	03:33 - ... - Problem 4. Run-length Encoding
+	
 	
 	
 	
