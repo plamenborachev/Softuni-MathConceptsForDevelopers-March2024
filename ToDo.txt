@@ -35,8 +35,7 @@ github_pat_11AGAU3BQ0LWEAgNBpznqU_4kKc0Drd2jxPnSweuZwiUoZWnI1ztGJ7S9mzz21PyMFROG
 	ok 02:58 - 03:11 - Problem 2. Complex Numbers as Vectors
 	ok 03:11 - 03:33 - Problem 3. Recursion and Fractals
 	ok 03:33 - 03:41 - Problem 4. Run-length Encoding
-	
-	03:41 - 03:51 - * Problem 5. Function Invertibility and Cryptography
+	ok 03:41 - 03:51 - * Problem 5. Function Invertibility and Cryptography
 	
 	* Problem 6. Diffie - Hellman Key Exchange Simulation
 	** Problem 7. The Galois Field in Cryptography
