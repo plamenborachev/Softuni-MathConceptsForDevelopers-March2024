@@ -1,14 +1,9 @@
-jupyter lab
-
-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
-
-
 01.High-School-Maths
 	installation 1:02-
 
 02.High-School-Maths-Exercise
 	
-	bullshits 00:00 - 01:44
+	intro 00:00 - 01:44
 	1 зад.	01:44 - 01:51	ok
 	2 зад. 	01:51 - 02:07	ok
 	3 зад.	02:07 - 02:32	ok
@@ -21,7 +16,7 @@ github_pat_11AGAU3BQ0LWEAgNBpznqU_4kKc0Drd2jxPnSweuZwiUoZWnI1ztGJ7S9mzz21PyMFROG
 	10*зад.
 	
 03.Basic-Algebra - 03:35
-	00:00 - 00:14 - BULLSHITS
+	00:00 - 00:14 - intro
 	00:14 - 01:12 
 			02:32 - Functions
 	02:32 -	03:35 - Complex Numbers
@@ -41,6 +36,26 @@ github_pat_11AGAU3BQ0LWEAgNBpznqU_4kKc0Drd2jxPnSweuZwiUoZWnI1ztGJ7S9mzz21PyMFROG
 	** Problem 7. The Galois Field in Cryptography
 	** Problem 8. Huffman Compression Algorithm
 	
+05.Linear-Algebra - 03:36
+	00:00 - 00:32 => Genarators
+	00:32 - 00:50 => Data Structures / Graphs
+	00:50 - 01:35 => Vectors
+	01:35 - 02:30 => Vector Spaces
+	02:30 - 03:36 => Matrices
 	
+06.Linear-Algebra-Exercise - 03:42
+	00:00 - 00:43 => intro
+	00:43 - 01:18 => warmup
+	01:18 - 01:48 => решаване на система линейни уравнения с матрица	
+	01:48 - 02:32 => Problem 1. Basis Vectors in 2D Coordinate Space
+	02:32 - ...	=> Problem 2. Vectorization in numpy
+	
+	=> Problem 3. Visualizing Linear Transformations
+	=> Problem 4. Images as Matrices. Image arithmetic
+	=> *Problem 5. Perspective Correction
+	=> *Problem 6. Eigenvalues and Eigenvectors
+	=> **Problem 7. Principal Component Analysis
+	=> **Problem 8. Eigenfaces
+	=> **Problem 9. Clustering Analysis. How Different Metrics Affect Clustering Results
 	
 	
