@@ -48,14 +48,14 @@
 	00:43 - 01:18 => warmup
 	01:18 - 01:48 => решаване на система линейни уравнения с матрица	
 	01:48 - 02:32 => Problem 1. Basis Vectors in 2D Coordinate Space
-	02:32 - ...	=> Problem 2. Vectorization in numpy
-	
-	=> Problem 3. Visualizing Linear Transformations
-	=> Problem 4. Images as Matrices. Image arithmetic
-	=> *Problem 5. Perspective Correction
-	=> *Problem 6. Eigenvalues and Eigenvectors
+	02:32 - 02:49 => Problem 2. Vectorization in numpy	
+	02:49 - 02:53 => Problem 3. Visualizing Linear Transformations
+	02:53 - 03:04 => Problem 4. Images as Matrices. Image arithmetic
+	03:04 - 03:14 => *Problem 5. Perspective Correction
+	03:14 - 03:25 => **Problem 9. Clustering Analysis. How Different Metrics Affect Clustering Results
+	03:25 - 03:36 => *Problem 6. Eigenvalues and Eigenvectors
 	=> **Problem 7. Principal Component Analysis
 	=> **Problem 8. Eigenfaces
-	=> **Problem 9. Clustering Analysis. How Different Metrics Affect Clustering Results
+	
 	
 	
