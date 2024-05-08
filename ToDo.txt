@@ -57,5 +57,17 @@
 	=> **Problem 7. Principal Component Analysis
 	=> **Problem 8. Eigenfaces
 	
+07.Calculus => 03:49
+	00:00 - 00:52 => Предговор
+	00:52 - 01:11 => Безкрайности
+	01:11 - 02:05 => Limit 
+	02:05 - 03:01 => Derivatives
+	03:01 - 03:49 => Integrals
+	
+08.Calculus-Exercise => 03:42
+	
+	
+
+	
 	
 	
