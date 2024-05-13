@@ -65,6 +65,21 @@
 	03:01 - 03:49 => Integrals
 	
 08.Calculus-Exercise => 03:42
+	00:00 - 00:33 => intro
+	00:33 - 01:08 => problems intro
+	01:08 - 01:40 => Function Complexity
+	01:40 - 02:20 => Problem 1. Derivative and Slope at a Point
+	02:20 - ... => Problem 2. Limits. The Number e as a Limit
+	... - 02:53 => Problem 3. Derivatives of Exponential Functions
+	02:53 - 03:22 => Problem 4. Integrals and Area. Changing Variables in Integration
+	03:22 - ... =>  Problem 5. Taylor Series. Computing Function Value Approximations
+	
+	
+	
+	
+	
+	
+	
 	
 	
 
