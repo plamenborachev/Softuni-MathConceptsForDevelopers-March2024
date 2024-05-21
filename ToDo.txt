@@ -1,5 +1,5 @@
 01.High-School-Maths
-	installation 1:02-
+	installation 1:02 -
 
 02.High-School-Maths-Exercise
 	
@@ -16,7 +16,7 @@
 	10*зад.
 	
 03.Basic-Algebra - 03:35
-	00:00 - 00:14 - intro
+	00:00 - 00:14 - Intro
 	00:14 - 01:12 
 			02:32 - Functions
 	02:32 -	03:35 - Complex Numbers
@@ -44,7 +44,7 @@
 	02:30 - 03:36 => Matrices
 	
 06.Linear-Algebra-Exercise - 03:42
-	00:00 - 00:43 => intro
+	00:00 - 00:43 => Intro
 	00:43 - 01:18 => warmup
 	01:18 - 01:48 => решаване на система линейни уравнения с матрица	
 	ок 01:48 - 02:32 => Problem 1. Basis Vectors in 2D Coordinate Space
@@ -65,15 +65,22 @@
 	03:01 - 03:49 => Integrals
 	
 08.Calculus-Exercise => 03:42
-	00:00 - 00:33 => intro
-	00:33 - 01:08 => problems intro
+	00:00 - 00:33 => Intro
+	00:33 - 01:08 => Problems intro
 	01:08 - 01:40 => Function Complexity
 	01:40 - 02:20 => Problem 1. Derivative and Slope at a Point
 	02:20 - ... => Problem 2. Limits. The Number e as a Limit
 	... - 02:53 => Problem 3. Derivatives of Exponential Functions
 	02:53 - 03:22 => Problem 4. Integrals and Area. Changing Variables in Integration
-	03:22 - ... =>  Problem 5. Taylor Series. Computing Function Value Approximations
+	03:22 - 03:42 =>  Problem 5. Taylor Series. Computing Function Value Approximations
 	
+09.Probability-and-Combinatorics => 03:45
+	00:00 - 00:34 => Intro
+	00:34 - 02:03 => Probability
+	02:03 - 02:41 => Combinatorics
+	02:41 - 03:16 => Probability Algebra
+	03:16 - ... => Statistical Distributions
+	... - 03:45 => Common Distributions
 	
 	
 	
