@@ -82,14 +82,13 @@
 	03:16 - ... => Statistical Distributions
 	... - 03:45 => Common Distributions
 	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
+10.Probability-and-Combinatorics-Exercise => 03:28
+	00:00 - 00:34 => Intro
+	00:34 - 00:58 => Problems intro
+	00:58 - 01:30 => bonus
+	01:30 - 02:09 => Problem 1. Exploring Distribution Parameters
+	02:09 - 02:24 => Problem 2. Central Limit Theorem
+	02:24 - 02:56 => Problem 3. Birthday Paradox
+	02:56 - 03:10 => Problem 4. Having Fun with Functions. Fourier Transform
+	03:10 - 03:28 => Problem 5. Working with Audio Files. Using the Fourier Transform
+		
