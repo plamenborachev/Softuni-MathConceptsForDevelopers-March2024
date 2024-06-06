@@ -31,8 +31,7 @@
 	ok 03:11 - 03:33 - Problem 3. Recursion and Fractals
 	ok 03:33 - 03:41 - Problem 4. Run-length Encoding
 	ok 03:41 - 03:51 - * Problem 5. Function Invertibility and Cryptography
-	ок * Problem 6. Diffie - Hellman Key Exchange Simulation
-	
+	ок * Problem 6. Diffie - Hellman Key Exchange Simulation	
 	** Problem 7. The Galois Field in Cryptography
 	** Problem 8. Huffman Compression Algorithm
 	
@@ -72,7 +71,9 @@
 	02:20 - ... => Problem 2. Limits. The Number e as a Limit
 	... - 02:53 => Problem 3. Derivatives of Exponential Functions
 	02:53 - 03:22 => Problem 4. Integrals and Area. Changing Variables in Integration
-	03:22 - 03:42 =>  Problem 5. Taylor Series. Computing Function Value Approximations
+	03:22 - 03:42 =>  * Problem 5. Taylor Series. Computing Function Value Approximations
+	** 6. Calculus in Medical Data. Electrocardiography (EKG)
+	** 7. Physics Engine	
 	
 09.Probability-and-Combinatorics => 03:45
 	00:00 - 00:34 => Intro
@@ -90,7 +91,11 @@
 	02:09 - 02:24 => Problem 2. Central Limit Theorem
 	02:24 - 02:56 => Problem 3. Birthday Paradox
 	02:56 - 03:10 => Problem 4. Having Fun with Functions. Fourier Transform
-	03:10 - 03:28 => Problem 5. Working with Audio Files. Using the Fourier Transform
+	03:10 - 03:28 => Problem 5. Working with Audio Files. Using the Fourier Transform	
+	* Problem 6. Breaking MD5 in Different Ways
+	** Problem 7. Audio Filters and Equalizers
+	** Problem 8. Error-Correcting Codes
+	** Problem 9. Probabilistic Data Structures
 	
 11.Statistics => 03:48
 	00:00 - 00:39 => Intro
