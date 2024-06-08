@@ -101,3 +101,13 @@
 	00:00 - 00:39 => Intro
 	00:39 - 03:48 => Statistics
 	
+12. Statistics-Exercise => 03:31
+	00:00 - 00:55 => Intro
+	00:55 - 01:12 => Problems intro
+	01:12 - 02:24 => bonus
+	02:24 - 02:45 => Problem 1. Plotting a Single Distribution. Digits in and 
+	02:45 - 03:02 => Problem 2. Categorical Variables. Comparing Categories
+	03:02 - 03:18 => Problem 3. Correlations between Variables. Alcohol and Tobacco Usage
+	03:18 - 03:31 => Problem 4. Simulation
+	
+	
